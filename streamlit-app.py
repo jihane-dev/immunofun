@@ -47,9 +47,9 @@ st_lottie(lottie_animation, key="lottie-immuno", height=300)
 # === Inspirational References Section ===
 st.markdown("### 🔬 Pour s’inspirer")
 st.markdown("""
-    > 💬 * « La technologie ne remplacera jamais un grand enseignant, mais la technologie entre les mains d’un grand enseignant peut être transformante. »* — George Couros
-    > 💬 *« La meilleure façon de prédire l’avenir, c’est de l’inventer. »* — Alan Kay 
-    > 💬 * « Immuno-Fun n’est pas qu’une application, c’est un pont entre l’abstrait et la compréhension réelle. »* — Jihane Jait
+    > 💬 * "La technologie ne remplacera jamais un grand enseignant, mais la technologie entre les mains d’un grand enseignant peut être transformante. "* — George Couros
+    > 💬 * "La meilleure façon de prédire l’avenir, c’est de l’inventer."* — Alan Kay 
+    > 💬 * " Immuno-Fun n’est pas qu’une application, c’est un pont entre l’abstrait et la compréhension réelle. "* — Jihane Jait
 """)
 
 st.markdown("---")
